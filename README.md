@@ -7,9 +7,7 @@
 🌱 I’m currently studying and improving my front-end development skills with the React library.
 
 <h4>Languages i speak:</h4>
-<p>Portuguese (native)</p>
-<p>English (advanced)</p>
-<p>French (intermediate)</p>
+<p>Portuguese (native)  /  English (advanced)  /  French (intermediate)</p>
 
 
 <div align="center">
