@@ -17,8 +17,8 @@
 
 <div align="left">
   <a href="https://github.com/marilia-lins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilia-lins&show_icons=true&theme=andromeda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilia-lins&layout=compact&langs_count=7&theme=andromeda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilia-lins&show_icons=true&theme=synthwave84&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilia-lins&layout=compact&langs_count=7&theme=synthwave84"/>
 </div>
 
 <div style="display: inline_block"><br>
