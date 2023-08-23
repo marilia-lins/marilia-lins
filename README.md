@@ -30,5 +30,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
+[moltack]: https://github-readme-stats.vercel.app/api?marilia-lins=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack)
+
 
 
