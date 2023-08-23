@@ -6,12 +6,11 @@
 
 🌱 I’m currently studying and improving my front-end development skills with the React library.
 
-<h4>Languages i speak: </h4>
-<ul>
-  <li>Portuguese (native)</li>
-  <li>English (advanced)</li>
-  <li>French (intermediate)</li>
-</ul>
+<h4>Languages i speak:</h4><br>
+<p>Portuguese (native)</p><br>
+<p>English (advanced)</p><br>
+<p>French (intermediate)</p>
+
 
 <div align="center">
   <a href="https://github.com/marilia-lins">
