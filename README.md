@@ -1,7 +1,5 @@
 ### Hello World 👋
 
-<h2> My name is Marília Lins, i'm 22 years old. More about me:</h2>
-
 - 👨‍💻 Self-taught Web Development Student
 - 📚 Systems Analysis and Development Student
 - 🌤️ Recife, Brazil
