@@ -29,7 +29,7 @@
   <img align="center" alt="JavaScprit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Styled-Components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+  <img align="center" alt="Styled-Components" height="30" width="40" src="https://cdn-media-1.freecodecamp.org/images/-bmCEVFtIS2uUfrccPhudu7cIVRtoBywTexv" />
   
 </div>
 
