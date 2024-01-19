@@ -1,10 +1,10 @@
 ### Hello World 👋
 
-- 👨‍💻 Self-taught Web Development Student
-- 📚 Systems Analysis and Development Student
+- 👨‍💻 Front-end Web Developer
+- 📚 Graduated in Systems Analysis and Development Student
 - 🌤️ Recife, Brazil
 
-🌱 I’m currently studying and improving my front-end development skills with the React library.
+🌱 I’m currently improving my front-end development skills with the React library.
 
 <h4>Languages i speak:</h4>
 <ol>
@@ -26,6 +26,7 @@
   <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="TypeScprit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://github.com/aniftyco/awesome-tailwindcss/blob/master/assets/logo.svg" />
   <img align="center" alt="JavaScprit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
